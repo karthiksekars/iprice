@@ -14,3 +14,7 @@ Above command will ask user input
 phpunit StringManipulationTest.php
 
 Since we are doing this test case for small sentence, I implemented CSV test case based on input string and first line from the generated CSV file.
+
+Existing Test Strings:
+hello world
+welcome to all
