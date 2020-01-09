@@ -1,0 +1,6 @@
+/*.csv
+/nbproject/private/
+/nbproject
+/vendor
+/composer.lock
+/tmp/*.csv
